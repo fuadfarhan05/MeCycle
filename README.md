@@ -11,4 +11,4 @@ This app allows users to relieve stress and participate in a simple and quick ye
 
 
 ### Here is the code and preview:
-<img height = "500" width="700" alt="Screenshot 2024-07-22 at 3 24 43 PM" src="https://github.com/user-attachments/assets/c12182dc-81e3-4c03-8534-0ac10bfb0ffc">
+<img width="700" alt="Screenshot 2024-07-22 at 3 24 43 PM" src="https://github.com/user-attachments/assets/c12182dc-81e3-4c03-8534-0ac10bfb0ffc">
